@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "urerued/larvel-11",
+    "name": "urerued/larvel-token",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": ["laravel", "framework", "package"],
@@ -24,7 +24,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Urerued\\larvel-11\\": "src/"
+            "Urerued\\LarvelToken\\": "src/"
         }
     },
     "autoload-dev": {
