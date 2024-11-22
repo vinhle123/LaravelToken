@@ -1,9 +1,9 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
     "name": "urerued/larvel-token",
-    "type": "project",
+    "type": "library",
     "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework", "package"],
+    "keywords": ["laravel", "application", "full"],
     "license": "MIT",
     "require": {
         "php": ">=7.2",
